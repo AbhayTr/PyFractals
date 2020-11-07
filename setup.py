@@ -11,6 +11,7 @@ setup(
     license = "MIT",
     description = "Python Module which creates fractals design.",
     long_description = readme,
+    long_description_content_type = "text/markdown",
     author = "Abhay Tripathi",
     author_email = "abhay.triipathi@gmail.com",
     url = "https://github.com/AbhayTr/PyFractals",
