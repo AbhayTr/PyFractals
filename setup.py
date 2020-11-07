@@ -1,6 +1,8 @@
 from distutils.core import setup
 
-VERSION = "v1.1"
+VERSION = "v1.2"
+
+readme = open("readme.md", "r").read();
 
 setup(
     name = "pyfractals",
@@ -8,6 +10,7 @@ setup(
     version = VERSION,
     license = "MIT",
     description = "Python Module which creates fractals design.",
+    long_description = readme,
     author = "Abhay Tripathi",
     author_email = "abhay.triipathi@gmail.com",
     url = "https://github.com/AbhayTr/PyFractals",
