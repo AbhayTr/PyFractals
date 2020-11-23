@@ -1,4 +1,0 @@
-Pillow
-consolebar
-numpy
-matplotlib
