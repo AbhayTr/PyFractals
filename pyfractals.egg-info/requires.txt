@@ -1,0 +1,4 @@
+Pillow
+consolebar
+numpy
+matplotlib

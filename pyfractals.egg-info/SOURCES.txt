@@ -1,0 +1,12 @@
+LICENSE.txt
+MANIFEST.in
+readme.md
+setup.cfg
+setup.py
+pyfractals/__init__.py
+pyfractals/pyfractals.py
+pyfractals.egg-info/PKG-INFO
+pyfractals.egg-info/SOURCES.txt
+pyfractals.egg-info/dependency_links.txt
+pyfractals.egg-info/requires.txt
+pyfractals.egg-info/top_level.txt
